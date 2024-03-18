@@ -19,11 +19,15 @@ To get started with this project, follow these steps:
 2. Fine-tune the DistilBERT model using your dataset.
 3. Evaluate the model performance using the provided evaluation metrics.
 
-## Usage
-.
+## Directories
+
+The project contains one directory:
+
+- **bin**: 
+
+  - `NER-Bert-FineTune.ipynb`: This notebook contains the code for running this project and alo provides narrative.
 
 ## Contributors
 - Fahad Deshmukh
 - deshmukh@uni-potsdam.de
 
-Feel free to contribute by submitting bug fixes, feature enhancements, or suggestions via pull requests.
